@@ -1,3 +1,4 @@
+#! /bin/sh
 declare -A notes
 while IFS= read -r line
 do
